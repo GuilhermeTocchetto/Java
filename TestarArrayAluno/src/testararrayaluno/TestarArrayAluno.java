@@ -6,7 +6,7 @@ public class TestarArrayAluno {
         
         Scanner sc = new Scanner(System.in);
         
-        aluno[] turma = new aluno[1];
+        aluno[] turma = new aluno[5];
         
         for(int i = 0; i<turma.length; i++){
             turma[i] = new aluno();
@@ -27,3 +27,4 @@ public class TestarArrayAluno {
     }
     
 }
+
